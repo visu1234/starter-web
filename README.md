@@ -22,3 +22,7 @@ This is sample file
 
 This is to serve up tech stack used
 one more modify
+
+### CopyRight
+
+Notice
