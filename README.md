@@ -16,7 +16,7 @@ This is a test deployment description text
 
 ## How to contribute
 
-This is sample file
+This is sample file please fork this to contribute
 
 ## technologies
 
