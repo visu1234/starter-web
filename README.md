@@ -17,3 +17,8 @@ This is a test deployment description text
 ## How to contribute
 
 This is sample file
+
+## technologies
+
+This is to serve up tech stack used
+one more modify
