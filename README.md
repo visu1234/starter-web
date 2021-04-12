@@ -26,4 +26,4 @@ one more modify
 
 ### CopyRight
 
-Notice
+Notice All rights reserved
